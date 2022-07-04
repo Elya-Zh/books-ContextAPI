@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.listOfBooks {
+  display: flex;
+}
+img {
+  height: 300px;
+}
+.priceIcon {
+  display: flex;
+}
+.icons {
+  display: flex;
+  height: 20px;
+}
+.cart {
+  text-align: right;
+  margin: auto;
+  display: inline-block;
+  border: 2px solid black;
+  width: 100px;
+}
